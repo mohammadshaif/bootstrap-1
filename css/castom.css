@@ -1,0 +1,78 @@
+.page-1{margin: 50px}
+.page-1 .border{
+    border-radius: 5px;}
+.page-1 .card{margin-bottom: 25px;}
+.page-2{margin: 50px}
+.page-2  p {
+   text-align: center;
+   line-height: 2.5;
+   border-radius: 5px; 	
+}
+.page-3{margin: 50px;}
+.page-3 p {
+	text-align: center;
+	height: 10vh;
+	line-height: 2;
+}
+.page-4{margin: 50px;}
+.page-4 p {
+	text-align:left;
+	height: 15vh;
+	padding: 12px;
+}
+.page-5 .bg-success{
+	height: 400px;
+}
+.page-5 .box-2{}
+.page-5 .bg-primary{
+	height: 193px;
+}
+.page-5 .bg-danger{height: 193px;}
+.page-5 .bg-warning{height: 193px;}
+.page-5 .bg-info{height: 193px;}
+.page-5 p{font-size: 25px;
+    font-weight: bold;
+	text-align: center;}
+.page-5 .box-1 p{padding-top: 175px;
+				    font-size: 50px;}
+.page-5 .box-3 p{padding-top: 78px;}
+.page-5 a .bg-secondary {
+    height: 70px;
+    font-size: 20px
+}
+.box-a p{}
+.box-b p{}
+.box-c p{}
+.page-5 .bg-secondary{
+    height: 70px;
+    font-size: 20px;
+    width: 90px;
+    padding-top: 18px;}
+
+
+.home-img img{width: 100%}
+.home .contant{position: relative;}
+.overlay{position: absolute;
+		top: 0%;
+		left: 0%;
+		width: 100%;
+		height:100%;
+	background-color:#000000d9;}
+
+.home-contant{position: absolute;
+		top: 0%;
+		left: 0%;
+		width: 100%;
+		height:100%;
+	}
+
+
+
+
+
+
+
+
+.home2{ background-color: #EEEEEE; }
+.home3{background-color: #1B1B35}
+.home3 a{ display: inline-block; }
